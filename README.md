@@ -162,6 +162,7 @@
 * [素人でもプロ並みの配色ができるデザインパターン参考サイト21選](https://blog.codecamp.jp/color_pattern) - 色の選び方・サンプル。
 * [Design Better Data Tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356) - テーブルを見やすく・使いやすくするテクニック。
 * [CSSアニメーションを簡単に実装できるライブラリ 10＋](https://www.nxworld.net/services-resource/css-animation-libraries.html)
+* [Orion Icon Library](https://orioniconlibrary.com/app)
 
 ## 開発環境
 
