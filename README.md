@@ -163,6 +163,7 @@
 * [Design Better Data Tables](https://uxdesign.cc/design-better-data-tables-4ecc99d23356) - テーブルを見やすく・使いやすくするテクニック。
 * [CSSアニメーションを簡単に実装できるライブラリ 10＋](https://www.nxworld.net/services-resource/css-animation-libraries.html)
 * [Orion Icon Library](https://orioniconlibrary.com/app)
+* [モバイルサイトのサブナビゲーション](https://u-site.jp/alertbox/mobile-subnavigation)
 
 ## 開発環境
 
