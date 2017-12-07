@@ -3,6 +3,7 @@
 - [C#](#c)
 - [JavaScript](#javascript)
 - [Vue](#vue)
+- [DDD](#ddd)
 
 ## C&#35;
 
@@ -168,3 +169,7 @@
 ## 開発環境
 
 * [Windows での最速 Node.js 環境構築](http://tyru.hatenablog.com/entry/2017/03/13/162318) - 最速。
+
+# DDD
+
+* [境界づけられたコンテキスト 概念編 - ドメイン駆動設計用語解説](http://little-hands.hatenablog.com/entry/2017/11/28/bouded-context-concept) - 境界づけられたコンテキストによる分割の考え方。
