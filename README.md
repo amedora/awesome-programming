@@ -124,6 +124,7 @@
 * [PrismとReactivePropertyで簡単MVVM！](http://qiita.com/hiki_neet_p/items/e381c687b0644c0e4978) - WPFとPrismとReactivePropertyの基本がわかるチュートリアル。
 * [SourceChord](http://sourcechord.hatenablog.com/archive/category/WPF) - WPFのTipsたくさん。
 * [ItemsControl 攻略 ～ 外観のカスタマイズ](http://grabacr.net/archives/1240) - ItemControlをカスタマイズする。
+* [Different Ways to Bind WPF View And View Model](http://www.dotnetforall.com/different-ways-bind-view-view-model/) - VからVMを作る方法、VMからVを作る方法のおさらい。
 
 ## 帳票
 
