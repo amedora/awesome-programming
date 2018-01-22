@@ -168,6 +168,10 @@
 * [Orion Icon Library](https://orioniconlibrary.com/app)
 * [モバイルサイトのサブナビゲーション](https://u-site.jp/alertbox/mobile-subnavigation)
 
+## Webセキュリティ
+
+* [商用環境で設定しておきたいセキュリティ関連 HTTP ヘッダまとめ](http://etc9.hatenablog.com/entry/2018/01/18/215626) - X-Content-Type-Optionsなど、設定が推奨されるHTTPヘッダの紹介。
+
 ## 開発環境
 
 * [Windows での最速 Node.js 環境構築](http://tyru.hatenablog.com/entry/2017/03/13/162318) - 最速。
