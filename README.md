@@ -1,20 +1,13 @@
 ## Programming is awesome!
 
 - [C#](#c)
-- [ASP.Net Core](#aspnet-core)
-- [データベース](#データベース)
-- [テスト](#テスト)
-- [WPF](#wpf)
-- [帳票](#帳票)
 - [JavaScript](#javascript)
-- [Vue](#vue)
-- [Bootstrap](#bootstrap)
 - [CSS・デザイン](#cssデザイン)
 - [Webセキュリティ](#webセキュリティ)
 - [開発環境](#開発環境)
 - [DDD](#ddd)
 
-## C&#35;
+# C&#35;
 
 * [C#の非同期の基礎](http://www.kekyo.net/2016/12/06/6186)
 * [Top .NET Software Errors: 50 Common Mistakes and How to Fix Them](https://stackify.com/top-net-software-errors/) - C#でよくあるミス50例。
@@ -30,12 +23,12 @@
 * [Making string validation faster by not using a regular expression. A story.](https://blog.maartenballiauw.be/post/2017/04/24/making-string-validation-faster-no-regular-expressions.html) - 正規表現の最適化テクニック。
 * [Learn Productivity Tips and Tricks for the Debugger in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/debugger/debugger-tips-and-tricks) - Visual Studioのデバッグテクニック。
 
-### LINQ
+## LINQ
 
 * [A Visual Lexicon of LINQ](https://www.simple-talk.com/dotnet/net-development/visual-lexicon-linq/) - LINQの辞書。
 * [LINQの拡張メソッド一覧と、ほぼ全部のサンプルを作ってみました。](http://d.hatena.ne.jp/chiheisen/20111031/1320068429) - 日本語サンプル。
 
-### NuGet
+## NuGet
 
 * [NuGetパッケージの作り方、或いはXmlエディタとしてのVisual Studio](http://neue.cc/2011/01/22_298.html)
 * [Creating Nuget Packages](https://blogs.msdn.microsoft.com/mvpawardprogram/2016/06/28/creating-nuget-packages/)
@@ -95,7 +88,7 @@
 * [Secure and explore ASP.NET Core Web APIs](http://conductofcode.io/post/secure-and-explore-aspnet-core-web-apis/) - JWTを使ってWeb APIを保護する方法とSwagger・Postmanを利用したテストのテクニック。
 * [JWT Validation and Authorization in ASP.NET Core](https://blogs.msdn.microsoft.com/webdev/2017/04/27/jwt-validation-and-authorization-in-asp-net-core-2/) -  Microsoft.AspNetCore.Authentication.JwtBearerのHowto。
 
-### CQRS/MediatR
+## CQRS/MediatR
 
 * [ASP.NET Core Lazy Command Pattern](http://rehansaeed.com/asp-net-core-lazy-command-pattern/) - CQRSパターンが大げさな場合はシンプルなコマンドパターンも候補になるよ。
 * [CQRS with Mediatr and ASP.NET Core ](https://www.stevejgordon.co.uk/cqrs-using-mediatr-asp-net-core) - ASP.NetでCQRSをMediatRを使って実装する例。
@@ -140,7 +133,7 @@
 
 * [EPPlusの使い方](http://chawatoyo.blog.fc2.com/blog-entry-15.html) - かなり多数のTips。
 
-## JavaScript
+# JavaScript
 
 * http://searchlibs.com - javascriptライブラリの検索。
 * [もうjQueryには頼らない！素のJavaScriptでDOMを操作するための基礎知識](https://www.webprofessional.jp/dom-manipulation-vanilla-javascript-no-jquery/) - 要素のクラスの変更などが参考になる。
@@ -164,7 +157,7 @@
 
 * [Multi-Step Input Forms in ASP.NET MVC](https://www.simple-talk.com/dotnet/asp-net/multi-step-input-forms-asp-net-mvc/) - マルチステップ（ウィザード形式）のフォームを実現する方法。
 
-## CSS・デザイン
+# CSS・デザイン
 
 * [CSS書きたくなさすぎ問題2017](http://otiai10.hatenablog.com/entry/2017/05/30/161951) - CSSフレームワーク一覧とひと言感想。
 * [Loading Styles](https://survivejs.com/webpack/styling/loading/) - webpackでCSSを管理するテクニック。
@@ -178,11 +171,11 @@
 * [モバイルサイトのサブナビゲーション](https://u-site.jp/alertbox/mobile-subnavigation)
 * [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886) - デザインを劇的に改善するTips。
 
-## Webセキュリティ
+# Webセキュリティ
 
 * [商用環境で設定しておきたいセキュリティ関連 HTTP ヘッダまとめ](http://etc9.hatenablog.com/entry/2018/01/18/215626) - X-Content-Type-Optionsなど、設定が推奨されるHTTPヘッダの紹介。
 
-## 開発環境
+# 開発環境
 
 * [Windows での最速 Node.js 環境構築](http://tyru.hatenablog.com/entry/2017/03/13/162318) - 最速。
 
