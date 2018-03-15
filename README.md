@@ -137,6 +137,7 @@
 
 * http://searchlibs.com - javascriptライブラリの検索。
 * [もうjQueryには頼らない！素のJavaScriptでDOMを操作するための基礎知識](https://www.webprofessional.jp/dom-manipulation-vanilla-javascript-no-jquery/) - 要素のクラスの変更などが参考になる。
+* [How to open a pdf downloaded from an API with JavaScript](https://blog.jayway.com/2017/07/13/open-pdf-downloaded-api-javascript/) - APIのレスポンスとして返ってきたPDFを表示する方法。
 
 ## Vue
 
