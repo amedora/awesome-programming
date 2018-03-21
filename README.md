@@ -1,11 +1,17 @@
 ## Programming is awesome!
 
+- [設計](#設計)
 - [C#](#c)
 - [JavaScript](#javascript)
 - [CSS・デザイン](#cssデザイン)
 - [Webセキュリティ](#webセキュリティ)
 - [開発環境](#開発環境)
 - [DDD](#ddd)
+
+# 設計
+
+* [.NETの例外処理 Part.1](https://blogs.msdn.microsoft.com/nakama/2008/12/29/net-part-1/) - 例外と業務エラーの違い。
+* [エンジニア必須の概念 – 契約による設計と信頼境界線](https://blog.ohgaki.net/design-by-contract-and-trust-boundary) - 『契約による設計(Design by Contract)』の考え方。
 
 # C&#35;
 
