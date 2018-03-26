@@ -148,6 +148,7 @@
 
 ## Vue
 
+* [やわらかVue.js](https://scrapbox.io/vue-yawaraka) - 迷いがちな点のtipsやawesome-vueから漏れるニッチな情報。
 * [awesome-vue](https://github.com/vuejs/awesome-vue#libraries--plugins) - Awesome!
 * [第6回　Vue.jsの高度なアプリケーション開発](http://gihyo.jp/dev/serial/01/vuejs/0006) - Vue.jsによる実践的な開発のチュートリアル。
 * [Vue.js入門](https://www.webprofessional.jp/up-and-running-vue-js-2-0/) - Vue Devtoolの紹介も。
