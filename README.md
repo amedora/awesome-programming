@@ -28,6 +28,7 @@
 * [Try catch, finally throw???or Exception Handling 101 for .NET](https://medium.com/@alexyakunin/try-catch-finally-throw-or-exception-handling-101-9f824136b21b) - 例外をどうやってハンドルするかという詳解。
 * [Making string validation faster by not using a regular expression. A story.](https://blog.maartenballiauw.be/post/2017/04/24/making-string-validation-faster-no-regular-expressions.html) - 正規表現の最適化テクニック。
 * [Learn Productivity Tips and Tricks for the Debugger in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/debugger/debugger-tips-and-tricks) - Visual Studioのデバッグテクニック。
+* [Enums.Net](https://github.com/TylerBrinkley/Enums.NET) - 便利なEnum。
 
 ## LINQ
 
