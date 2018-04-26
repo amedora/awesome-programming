@@ -1,6 +1,7 @@
 ## Programming is awesome!
 
 - [設計](#設計)
+- [デプロイ](#デプロイ)
 - [C#](#c)
 - [JavaScript](#javascript)
 - [CSS・デザイン](#cssデザイン)
@@ -12,6 +13,10 @@
 
 * [.NETの例外処理 Part.1](https://blogs.msdn.microsoft.com/nakama/2008/12/29/net-part-1/) - 例外と業務エラーの違い。
 * [エンジニア必須の概念 – 契約による設計と信頼境界線](https://blog.ohgaki.net/design-by-contract-and-trust-boundary) - 『契約による設計(Design by Contract)』の考え方。
+
+# デプロイ
+
+* [Working with Windows Containers and Docker: Save the Data](https://www.red-gate.com/simple-talk/sysadmin/containerization/working-windows-containers-docker-save-data/) - ボリュームの管理、ホスト・コンテナでシェアする方法。
 
 # C&#35;
 
