@@ -165,6 +165,7 @@
 * [Vue.jsを使う際のベストプラクティスについて考える](http://qiita.com/edwardkenfox/items/6f4aa591485d2a270841) - ベストプラクティスの紹介。
 * [Vue.js 2.2 API Complete Cheatsheat](https://vuejs-tips.github.io/cheatsheet/) - チートシート。モーダルウィンドウのサイズが小さい…
 * [CodingExplained](https://codingexplained.com/coding/front-end/vue-js) - 全般的なヒント集
+* [Animating a car with VueJS](https://gigigo.com/2017/06/27/animating-a-car-with-vuejs/?lang=en) - 車を走らせる例によるSVGアニメーションのチュートリアル。
 
 ### Vue用ライブラリ
 
