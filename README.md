@@ -92,7 +92,8 @@
 
 #### JWT
 
-* [ASP.NET Core MVC で JWT を使った認証を実装する](http://tnakamura.hatenablog.com/entry/2017/08/04/jwt-bearer-authentication) - JWT利用方法のサンプルコード（日本語）。 - [ASP.NET Core 2.0 で JWT を使った認証を実装する](http://tnakamura.hatenablog.com/entry/2017/08/31/use-jwt-bearer-authentication-on-aspnetcore2) -* ↑のASP.Net Core 2.0バージョン。
+* [ASP.NET Core MVC で JWT を使った認証を実装する](http://tnakamura.hatenablog.com/entry/2017/08/04/jwt-bearer-authentication) - JWT利用方法のサンプルコード（日本語）。
+* [ASP.NET Core 2.0 で JWT を使った認証を実装する](http://tnakamura.hatenablog.com/entry/2017/08/31/use-jwt-bearer-authentication-on-aspnetcore2) - ↑のASP.Net Core 2.0バージョン。
 * [Bearer Token Authentication in ASP.NET Core](https://blogs.msdn.microsoft.com/webdev/2016/10/27/bearer-token-authentication-in-asp-net-core/)
 * [A look behind the JWT bearer authentication middleware in ASP.NET Core](http://andrewlock.net/a-look-behind-the-jwt-bearer-authentication-middleware-in-asp-net-core/) - JWTおよびJwtBearerAuthenticationMiddlewareの詳細な解説と使い方。
 * [ASP.NET Core Token Authentication Guide](https://stormpath.com/blog/token-authentication-asp-net-core)
