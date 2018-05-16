@@ -188,6 +188,7 @@
 * [Orion Icon Library](https://orioniconlibrary.com/app)
 * [モバイルサイトのサブナビゲーション](https://u-site.jp/alertbox/mobile-subnavigation)
 * [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886) - デザインを劇的に改善するTips。
+* [Lorem Picsum](https://picsum.photos/) - モック画像サービス。
 
 # Webセキュリティ
 
