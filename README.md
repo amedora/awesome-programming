@@ -191,6 +191,7 @@
 * [モバイルサイトのサブナビゲーション](https://u-site.jp/alertbox/mobile-subnavigation)
 * [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886) - デザインを劇的に改善するTips。
 * [Lorem Picsum](https://picsum.photos/) - モック画像サービス。
+* [Native-Like Animations for Page Transitions on the Web](https://css-tricks.com/native-like-animations-for-page-transitions-on-the-web/) - ネイティブアプリのように要素を動かしまくるテクニック。
 
 # Webセキュリティ
 
