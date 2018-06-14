@@ -194,6 +194,10 @@
 * [ブックマークしておきたい、いい感じの写真画像がクレジット表記無しで無料利用できるサイトのまとめ](https://coliss.com/articles/freebies/stock-photos-for-2015.html)
 * [Native-Like Animations for Page Transitions on the Web](https://css-tricks.com/native-like-animations-for-page-transitions-on-the-web/) - ネイティブアプリのように要素を動かしまくるテクニック。
 
+# データベース設計
+
+* [Database Answers](http://www.databaseanswers.org/data_models/) - あらゆる業界・業種のデータベースモデルの例。
+
 # Webセキュリティ
 
 * [商用環境で設定しておきたいセキュリティ関連 HTTP ヘッダまとめ](http://etc9.hatenablog.com/entry/2018/01/18/215626) - X-Content-Type-Optionsなど、設定が推奨されるHTTPヘッダの紹介。
