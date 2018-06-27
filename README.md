@@ -193,6 +193,7 @@
 * [Lorem Picsum](https://picsum.photos/) - モック画像サービス。
 * [ブックマークしておきたい、いい感じの写真画像がクレジット表記無しで無料利用できるサイトのまとめ](https://coliss.com/articles/freebies/stock-photos-for-2015.html)
 * [Native-Like Animations for Page Transitions on the Web](https://css-tricks.com/native-like-animations-for-page-transitions-on-the-web/) - ネイティブアプリのように要素を動かしまくるテクニック。
+* [CSSの作業をもっと楽に！無料で使える便利なWebツール40選](http://photoshopvip.net/109622)
 
 # データベース設計
 
