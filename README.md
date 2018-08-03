@@ -11,6 +11,8 @@
 
 # 設計
 
+* [.Net Design Patterns](https://www.dofactory.com/net/design-patterns) - C#でのデザインパターンの実装例。
+* [Design Patterns in C#](http://gyanendushekhar.com/design-pattern-c/) - C#でのデザインパターンの実装例。
 * [.NETの例外処理 Part.1](https://blogs.msdn.microsoft.com/nakama/2008/12/29/net-part-1/) - 例外と業務エラーの違い。
 * [エンジニア必須の概念 – 契約による設計と信頼境界線](https://blog.ohgaki.net/design-by-contract-and-trust-boundary) - 『契約による設計(Design by Contract)』の考え方。
 
