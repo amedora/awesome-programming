@@ -5,6 +5,7 @@
 - [C#](#c)
 - [JavaScript](#javascript)
 - [CSS・デザイン](#cssデザイン)
+- [PowerShell](#powershell)
 - [Webセキュリティ](#webセキュリティ)
 - [開発環境](#開発環境)
 - [DDD](#ddd)
@@ -196,6 +197,10 @@
 * [ブックマークしておきたい、いい感じの写真画像がクレジット表記無しで無料利用できるサイトのまとめ](https://coliss.com/articles/freebies/stock-photos-for-2015.html)
 * [Native-Like Animations for Page Transitions on the Web](https://css-tricks.com/native-like-animations-for-page-transitions-on-the-web/) - ネイティブアプリのように要素を動かしまくるテクニック。
 * [CSSの作業をもっと楽に！無料で使える便利なWebツール40選](http://photoshopvip.net/109622)
+
+# PowerShell
+
+* [PowerShell Standard Library: Build single module that works across Windows PowerShell and PowerShell Core](https://blogs.msdn.microsoft.com/powershell/2018/08/06/powershell-standard-library-build-single-module-that-works-across-windows-powershell-and-powershell-core/)
 
 # データベース設計
 
