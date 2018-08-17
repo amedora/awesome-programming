@@ -205,6 +205,7 @@
 # PowerShell
 
 * [PowerShell Standard Library: Build single module that works across Windows PowerShell and PowerShell Core](https://blogs.msdn.microsoft.com/powershell/2018/08/06/powershell-standard-library-build-single-module-that-works-across-windows-powershell-and-powershell-core/)
+* [Introduction to Testing Your PowerShell Code with Pester](https://www.red-gate.com/simple-talk/sysadmin/powershell/introduction-to-testing-your-powershell-code-with-pester/) - PowerShell用テストツールPester。
 
 # データベース設計
 
