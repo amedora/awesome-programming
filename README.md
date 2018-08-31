@@ -211,6 +211,7 @@
 # データベース設計
 
 * [Database Answers](http://www.databaseanswers.org/data_models/) - あらゆる業界・業種のデータベースモデルの例。
+* [SQL Code Smells](https://www.red-gate.com/simple-talk/sql/t-sql-programming/sql-code-smells/) - SQLの臭い
 
 # Webセキュリティ
 
