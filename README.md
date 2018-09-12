@@ -64,6 +64,7 @@
 * [View Components with ASP.NET Core 1.1](https://csharp.christiannagel.com/2017/02/28/viewcomponents/) - ASP.Net Core 1.1で高機能になったViewComponentの解説。
 * [Using LocalDB with Full IIS, Part 1: User Profile](https://blogs.msdn.microsoft.com/sqlexpress/2011/12/08/using-localdb-with-full-iis-part-1-user-profile/) - IISでSQL Server localdbを使うための細かい作業。
 * [Running multiple independent ASP.NET Core pipelines side by side in the same application](https://www.strathweb.com/2017/04/running-multiple-independent-asp-net-core-pipelines-side-by-side-in-the-same-application/) - 超絶技巧
+* [Host ASP.NET Core in a Windows Service](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/windows-service?view=aspnetcore-2.1&tabs=aspnetcore2x&WT.mc_id=-blog-scottha) - ASP.Net Core 2.1は標準でWindowsサービス化が可能。
 
 ### ロギング
 
