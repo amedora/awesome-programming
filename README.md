@@ -165,6 +165,10 @@
 * [How to open a pdf downloaded from an API with JavaScript](https://blog.jayway.com/2017/07/13/open-pdf-downloaded-api-javascript/) - APIのレスポンスとして返ってきたPDFを表示する方法。
 * [ブラウザのキャッシュをクリアする](https://postd.cc/clearing-cache-in-the-browser/) - ブラウザのキャッシュをクリアする複数のテクニック。
 
+## オンラインエディタ
+
+* [codesandbox](https://codesandbox.io/) - React、Vue、Angularなどが素早く試せる。
+
 ## Vue
 
 * [やわらかVue.js](https://scrapbox.io/vue-yawaraka) - 迷いがちな点のtipsやawesome-vueから漏れるニッチな情報。
