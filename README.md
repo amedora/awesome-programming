@@ -13,6 +13,7 @@
 
 # 設計
 
+* [Martin Fowler's Bliki (ja)](http://bliki-ja.github.io/) - マーティン・ファウラーのBlikiの日本語訳。
 * [.Net Design Patterns](https://www.dofactory.com/net/design-patterns) - C#でのデザインパターンの実装例。
 * [Design Patterns in C#](http://gyanendushekhar.com/design-pattern-c/) - C#でのデザインパターンの実装例。
 * [.NETの例外処理 Part.1](https://blogs.msdn.microsoft.com/nakama/2008/12/29/net-part-1/) - 例外と業務エラーの違い。
