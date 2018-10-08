@@ -13,6 +13,7 @@
 
 # 設計
 
+* [プログラマが知るべき97のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/)
 * [Martin Fowler's Bliki (ja)](http://bliki-ja.github.io/) - マーティン・ファウラーのBlikiの日本語訳。
 * [.Net Design Patterns](https://www.dofactory.com/net/design-patterns) - C#でのデザインパターンの実装例。
 * [Design Patterns in C#](http://gyanendushekhar.com/design-pattern-c/) - C#でのデザインパターンの実装例。
