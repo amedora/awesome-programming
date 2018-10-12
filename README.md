@@ -159,6 +159,7 @@
 
 * [Noda Time](https://nodatime.org/) - すぐれた日付・時刻操作ライブラリ。
 * [Polly](https://github.com/App-vNext/Polly/wiki) - ネットワーク障害時の再試行・サーキットブレーカーに対応するライブラリ。
+* [Run a command in external terminal with .Net Core](https://dev.to/deinsoftware/run-a-command-in-external-terminal-with-net-core-d4l) - .Net Coreで外部スクリプトの実行をサポートするツール。
 
 # JavaScript
 
