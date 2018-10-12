@@ -135,6 +135,7 @@
 ## テスト
 
 * [Mocking in .NET Core Tests with Moq](http://dontcodetired.com/blog/post/Mocking-in-NET-Core-Tests-with-Moq) - Moqの使用例。
+* [How to setup methods which return a built-in type and implement IEnumerable interface in Moq ?](https://dev.to/rajmondburgaj/how-to-setup-methods-which-return-a-built-int-type-and-implement-ienumerable-interface-in-moq--20of) - テストしづらい型を返すメソッドをテスト可能にするMoqのテクニック。
 
 ## WPF
 
