@@ -132,10 +132,11 @@
 
 * [Paging with Entity Framework Core](http://gunnarpeipman.com/2017/01/ef-core-paging/) - ページングの実装例。
 
-## テスト
+## テスト・デバッグ
 
 * [Mocking in .NET Core Tests with Moq](http://dontcodetired.com/blog/post/Mocking-in-NET-Core-Tests-with-Moq) - Moqの使用例。
 * [How to setup methods which return a built-in type and implement IEnumerable interface in Moq ?](https://dev.to/rajmondburgaj/how-to-setup-methods-which-return-a-built-int-type-and-implement-ienumerable-interface-in-moq--20of) - テストしづらい型を返すメソッドをテスト可能にするMoqのテクニック。
+* [Top 10 Debugging Tips for .NET](https://stackify.com/debugging-tips-net/)
 
 ## WPF
 
@@ -176,6 +177,7 @@
 
 ## Vue
 
+* [Vue.js Examples](https://vuejsexamples.com/)
 * [やわらかVue.js](https://scrapbox.io/vue-yawaraka) - 迷いがちな点のtipsやawesome-vueから漏れるニッチな情報。
 * [awesome-vue](https://github.com/vuejs/awesome-vue#libraries--plugins) - Awesome!
 * [第6回　Vue.jsの高度なアプリケーション開発](http://gihyo.jp/dev/serial/01/vuejs/0006) - Vue.jsによる実践的な開発のチュートリアル。
