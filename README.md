@@ -123,6 +123,8 @@
 
 * [Prefix vs Glimpse: SQL Queries](https://stackify.com/prefix-vs-glimpse-sql-queries/) - SQLの監視・分析ツール『Prefix』。
 * [5 Ways To Manage Database Schema Changes in 2017 (in .NET) ](https://surfingthecode.com/2017/05/5-ways-to-manage-database-schema-changes-in-dotnet/) - イマドキのマイグレーション。
+* [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - .Net環境向けDBマイグレーションツール
+  * [FluentMigration の基本機能メモ](http://kendik.hatenablog.com/entry/2015/07/02/231529) - ↑の日本語解説記事。
 
 ### Dapper
 
