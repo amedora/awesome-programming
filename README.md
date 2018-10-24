@@ -241,6 +241,8 @@
 # DDD
 
 * [境界づけられたコンテキスト 概念編 - ドメイン駆動設計用語解説](http://little-hands.hatenablog.com/entry/2017/11/28/bouded-context-concept) - 境界づけられたコンテキストによる分割の考え方。
+* [ボトムアップドメイン駆動設計](https://nrslib.com/bottomup-ddd/) - ドメイン駆動設計がなぜ良いのか、どうやって実装していくかの解説。
+** [ボトムアップドメイン駆動設計](https://www.slideshare.net/MasanobuNaruse/bottomup-ddd-1) - ↑のSlideshare（こちらのほうがわかりやすいかも）
 
 # Linux
 
