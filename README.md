@@ -69,6 +69,7 @@
 * [Running multiple independent ASP.NET Core pipelines side by side in the same application](https://www.strathweb.com/2017/04/running-multiple-independent-asp-net-core-pipelines-side-by-side-in-the-same-application/) - 超絶技巧
 * [Host ASP.NET Core in a Windows Service](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/windows-service?view=aspnetcore-2.1&tabs=aspnetcore2x&WT.mc_id=-blog-scottha) - ASP.Net Core 2.1は標準でWindowsサービス化が可能。
 * [Web API Error Handling: How To Make Debugging Easier](https://stackify.com/web-api-error-handling/) - Web APIのエラーハンドリング実装のガイドライン。
+* [Microservice-based Application with ASP.NET Core Generic Host](https://dev.to/jeikabu/microservice-based-application-with-aspnet-core-generic-host-cel) - 汎用的なIHostedServiceを実装しプラグインで拡張するサンプル。
 
 ### ロギング
 
