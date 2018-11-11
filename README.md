@@ -169,6 +169,7 @@
 
 # JavaScript
 
+* [js-primer](https://jsprimer.net/) - ECMAScript 2018時代のJavaScript入門書
 * [fbeline/Design-Patterns-JS](https://github.com/fbeline/Design-Patterns-JS) - javascriptで実装されたGoFのデザインパターン集。
 * http://searchlibs.com - javascriptライブラリの検索。
 * [もうjQueryには頼らない！素のJavaScriptでDOMを操作するための基礎知識](https://www.webprofessional.jp/dom-manipulation-vanilla-javascript-no-jquery/) - 要素のクラスの変更などが参考になる。
