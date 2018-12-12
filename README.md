@@ -251,3 +251,4 @@
 # Linux
 
 * [CentOS 7などのSystemdに対応したデーモンプログラムを作る](https://rcmdnk.com/blog/2018/09/10/computer-linux/)
+* [シェルスクリプトを高級言語のような書き味に近づける Tips 集](https://sousaku-memo.net/php-system/1817)
