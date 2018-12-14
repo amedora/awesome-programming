@@ -194,6 +194,7 @@
 * [Vue.js 2.2 API Complete Cheatsheat](https://vuejs-tips.github.io/cheatsheet/) - チートシート。モーダルウィンドウのサイズが小さい…
 * [CodingExplained](https://codingexplained.com/coding/front-end/vue-js) - 全般的なヒント集
 * [Animating a car with VueJS](https://gigigo.com/2017/06/27/animating-a-car-with-vuejs/?lang=en) - 車を走らせる例によるSVGアニメーションのチュートリアル。
+* [3 tips for scaling large Vue.js application](https://dev.to/maxpou/3-tips-for-scaling-large-vuejs-application-2edi) - 大規模なVueアプリケーションを開発する際のガイドライン。Vuexのストアを使うべきか迷った時のフローチャートとPortalVueの紹介。
 
 ### Vue用ライブラリ
 
