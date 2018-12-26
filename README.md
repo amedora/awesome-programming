@@ -225,6 +225,7 @@
 * [CSSの作業をもっと楽に！無料で使える便利なWebツール40選](http://photoshopvip.net/109622)
 * [CSS Gridが適しているレイアウト、Flexboxが適してるレイアウトを詳しく解説](https://coliss.com/articles/build-websites/operation/css/css-grid-vs-flexbox-which-should-you-choose.html)
 * [Evericons](http://www.evericons.com/) - アイコン。
+* [ためし書き](https://tameshigaki.jp/) - いろんなフォントの見た目を比較できる。
 
 # PowerShell
 
