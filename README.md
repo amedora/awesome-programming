@@ -227,6 +227,7 @@
 * [CSS Gridが適しているレイアウト、Flexboxが適してるレイアウトを詳しく解説](https://coliss.com/articles/build-websites/operation/css/css-grid-vs-flexbox-which-should-you-choose.html)
 * [Evericons](http://www.evericons.com/) - アイコン。
 * [ためし書き](https://tameshigaki.jp/) - いろんなフォントの見た目を比較できる。
+* [簡単で便利なのが揃ってる！CSSで実装されたローディング・スピナーのアニメーションのまとめ](https://coliss.com/articles/build-websites/operation/css/css-loading-animations.html)
 
 # PowerShell
 
