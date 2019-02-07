@@ -228,6 +228,7 @@
 * [Evericons](http://www.evericons.com/) - アイコン。
 * [ためし書き](https://tameshigaki.jp/) - いろんなフォントの見た目を比較できる。
 * [簡単で便利なのが揃ってる！CSSで実装されたローディング・スピナーのアニメーションのまとめ](https://coliss.com/articles/build-websites/operation/css/css-loading-animations.html)
+* [](https://webgradients.com/) - 背景に使えるグラデーション。
 
 # PowerShell
 
