@@ -71,6 +71,7 @@
 * [Web API Error Handling: How To Make Debugging Easier](https://stackify.com/web-api-error-handling/) - Web APIのエラーハンドリング実装のガイドライン。
 * [Microservice-based Application with ASP.NET Core Generic Host](https://dev.to/jeikabu/microservice-based-application-with-aspnet-core-generic-host-cel) - 汎用的なIHostedServiceを実装しプラグインで拡張するサンプル。
 * [ASP.NET Core 2.2 で追加された Health Checks API の基本的な使い方とカスタマイズ](https://blog.shibayan.jp/entry/20181219/1545185333)
+* [Developing Microservices with .NET Core 2.1, RabbitMQ, SignalR, EF Core 2.1 and Angular 6](https://www.codeproject.com/Articles/1267590/Developing-Microservices-with-NET-Core-2-1-RabbitM) - 超実践的マイクロサービス構築例。
 
 ### ロギング
 
