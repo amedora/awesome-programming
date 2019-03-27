@@ -231,6 +231,7 @@
 * [ためし書き](https://tameshigaki.jp/) - いろんなフォントの見た目を比較できる。
 * [簡単で便利なのが揃ってる！CSSで実装されたローディング・スピナーのアニメーションのまとめ](https://coliss.com/articles/build-websites/operation/css/css-loading-animations.html)
 * [Fresh Background Gradients](https://webgradients.com/) - 背景に使えるグラデーション。
+* [10 COMMON DESIGN MISTAKES… AND HOW TO AVOID THEM](https://distillery.com/blog/10-common-design-mistakes/)
 
 # PowerShell
 
