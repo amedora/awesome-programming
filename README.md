@@ -233,6 +233,7 @@
 * [Fresh Background Gradients](https://webgradients.com/) - 背景に使えるグラデーション。
 * [10 COMMON DESIGN MISTAKES… AND HOW TO AVOID THEM](https://distillery.com/blog/10-common-design-mistakes/)
 * [Lottie](https://airbnb.design/lottie/) - アニメーションライブラリ
+* [ウェブデザイン制作が加速中！便利な最新オンラインツール53個まとめ](http://photoshopvip.net/115542)
 
 # PowerShell
 
