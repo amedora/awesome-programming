@@ -148,6 +148,7 @@
 
 ## WPF
 
+* [:: halation ghost ::](https://elf-mission.net/category/programming/wpf/) - WPFの丁寧なチュートリアル。
 * [実践WPF業務アプリケーションのアーキテクチャ【概要編】](https://codezine.jp/article/detail/10727) - 実戦形式の解説。
 * [実践WPF業務アプリケーションのアーキテクチャ【実装編】](https://codezine.jp/article/detail/10761) - ↑にコードを加えた解説。
 * [WPF4.5入門](http://blog.okazuki.jp/entry/2014/12/27/200015)
