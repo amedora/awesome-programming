@@ -28,6 +28,7 @@
 # C&#35;
 
 * [C#の非同期の基礎](http://www.kekyo.net/2016/12/06/6186)
+* [パターンでわかる！.Net Coreの非同期処理](https://www.slideshare.net/kekyo/net-core-179324921)
 * [Top .NET Software Errors: 50 Common Mistakes and How to Fix Them](https://stackify.com/top-net-software-errors/) - C#でよくあるミス50例。
 * [Do I need to use ConfigureAwait(false) all the way?](http://danielwertheim.se/do-i-need-to-use-configureawait-false-all-the-way/) - 「.ConfigureAwait(false)」はいつも付けないといけないの？という疑問に対する答え。
 * [Loading .NET Assemblies out of Seperate Folders](https://weblog.west-wind.com/posts/2016/Dec/12/Loading-NET-Assemblies-out-of-Seperate-Folders) - 動的にアセンブリをロードする必要が出た時に（プラグイン機能の実装など）考慮すべき事柄など。コメントで言及されているMEF2はMSが公式に用意している手段。
