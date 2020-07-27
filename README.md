@@ -42,6 +42,7 @@
 * [Making string validation faster by not using a regular expression. A story.](https://blog.maartenballiauw.be/post/2017/04/24/making-string-validation-faster-no-regular-expressions.html) - 正規表現の最適化テクニック。
 * [Learn Productivity Tips and Tricks for the Debugger in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/debugger/debugger-tips-and-tricks) - Visual Studioのデバッグテクニック。
 * [Enums.Net](https://github.com/TylerBrinkley/Enums.NET) - 便利なEnum。
+* [Specification pattern: C# implementation](https://enterprisecraftsmanship.com/posts/specification-pattern-c-implementation/) - 仕様パターンの実装例。
 
 ## LINQ
 
