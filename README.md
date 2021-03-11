@@ -105,6 +105,7 @@
 * [Automatically validating anti-forgery tokens in ASP.NET Core with the AutoValidateAntiforgeryTokenAttribute](https://andrewlock.net/automatically-validating-anti-forgery-tokens-in-asp-net-core-with-the-autovalidateantiforgerytokenattribute/) - いちいち[ValidateAntiForgeryToken]を付けて回るのが面倒なときのテクニック。
 * [How to Support Windows Authentication for ASP.NET Core in IIS](https://blogs.msdn.microsoft.com/wushuai/2017/06/26/how-to-support-windows-authentication-for-asp-net-core-in-iis/) - ASP.Net CoreアプリケーションをIISで動かすときにWindows認証を使う方法。
 * [Policy-based Authorization in ASP.NET Core – A Deep Dive](https://www.red-gate.com/simple-talk/dotnet/c-programming/policy-based-authorization-in-asp-net-core-a-deep-dive/) - ポリシーベースの認証機能の実装の詳説。
+* [ASP.NET Core アプリケーションのログアウト時に認証クッキーを確実に無効化する](https://blog.shibayan.jp/entry/20210308/1615173991)
 
 #### JWT
 
